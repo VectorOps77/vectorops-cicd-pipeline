@@ -143,6 +143,10 @@ Initial DevSecOps pipeline completed.
 * Add deployment stage to Azure App Service
 * Add Docker build and Trivy image scanning in a future container phase
 
+## Learning Outcome
+
+This project helped me understand how DevSecOps pipelines automate code quality, testing, and security validation.
+
 ## Disclaimer
 
 This is a fictional portfolio project created for DevSecOps learning and demonstration purposes. No work, government, client, or sensitive data is included.
